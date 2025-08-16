@@ -3,5 +3,5 @@ AI Agent in Python — interacts, processes tasks, and provides intelligent resp
 
 ## 📫 Contact
 mansoordigitalworld@gmail.com
-https://www.linkedin.com/in/mansoor-ishaq-7a1ba92bb
+www.linkedin.com/in/mansoor-ishaq
 https://www.fiverr.com/designbymansoor
